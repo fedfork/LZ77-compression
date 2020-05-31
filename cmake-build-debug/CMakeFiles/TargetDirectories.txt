@@ -1,0 +1,3 @@
+/Users/neabra/Desktop/KORSHIKOV_COMPR_KDZ/LZ77/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/neabra/Desktop/KORSHIKOV_COMPR_KDZ/LZ77/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/neabra/Desktop/KORSHIKOV_COMPR_KDZ/LZ77/cmake-build-debug/CMakeFiles/LZ77.dir
